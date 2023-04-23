@@ -1,4 +1,4 @@
-package class11HW;
+package class12HW;
 
 public class Reverse {
     public static void main(String[] args) {

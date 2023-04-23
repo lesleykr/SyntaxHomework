@@ -1,4 +1,4 @@
-package class11HW;
+package class12HW;
 
 import java.util.Scanner;
 
