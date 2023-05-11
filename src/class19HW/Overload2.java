@@ -1,10 +1,6 @@
 package class19HW;
 
 public class Overload2 {
-    String str;
-    int num1;
-    int num2;
-    int num3;
     private void over2(String str){
         System.out.println("I say "+str);
     }

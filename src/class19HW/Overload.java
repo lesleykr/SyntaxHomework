@@ -1,11 +1,7 @@
 package class19HW;
 
 public class Overload {
-    /*static String str;
-    static int num1;
-    static int num2;
-    static int num3;*/
-    static void over(String str){
+      static void over(String str){
         System.out.println("I say "+str);
     }
    static void over(int num1,int num2){
@@ -15,9 +11,9 @@ public class Overload {
         System.out.println("Still more nums: "+num1+", "+num2+", "+num3);
     }
     public static void main(String[] args) {
-        Overload str1=new Overload();
-
-
+    over("Meep");
+    over(4,5);
+    over(1,2,3);
     }
 }
 
