@@ -21,6 +21,6 @@ public class StudentTester {
         for(Student s:students){
             System.out.println(s.getName());
         }
-       
+
     }
 }
